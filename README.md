@@ -1,7 +1,7 @@
 # Love Protocol | Standardizing Human Connection
 
 <p align="center">
-  <img src="loveprotocol-logo.png" width="400" alt="Love Protocol Logo">
+  <img src="https://www.loveprotocol.io/loveprotocol-logo.png" width="400" alt="Love Protocol Logo">
 </p>
 
 **Status:** Version 1.1.0-STABLE (Hardened)  
