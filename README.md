@@ -5,58 +5,74 @@
 </p>
 
 **Status:** `v1.1.0-STABLE (Hardened)`  
-**Release Year:** `2026`  
+**Build Target:** `UNIFIED_FIELD_2026`  
 **Parent Infrastructure:** [Dream Machine | Systems](https://dreammachine.systems)  
-**Primary Endpoint:** [loveprotocol.io](https://loveprotocol.io)
+**Primary Documentation:** [loveprotocol.io](https://loveprotocol.io)
 
 ---
 
 ## 🛰️ Project Overview
 
-The **Love Protocol** is a high-performance application layer designed to refactor human communication into a **Stateless Data Exchange**. By removing the "Legacy Debt" of past interaction states (grudges, trauma-loops, and ego-defenses), the protocol enables **Zero Latency** connectivity within the **Unified Field**.
+The **Love Protocol** is a high-performance application layer designed to refactor human communication into a **Stateless Data Exchange**. In legacy "World OS" interactions, social latency is caused by heavy background processes—grudges, history logs, and ego-defensive firewalls. 
 
-In the context of the global **Polycrisis**, this protocol serves as a stabilizing utility to decrease system entropy across social and digital networks:
+By removing this "Legacy Debt," the protocol enables **Zero Latency** connectivity. In the context of the global **Polycrisis**, this protocol serves as a stabilizing utility to decrease system entropy:
 
 $$\Delta S_{system} < 0$$
 
-The objective is to optimize the **50-bit realm of conscious logic** to allow the full 11.1-million-bit sensory stream of human resonance to flow without packet loss or thermal throttling.
+The objective is to optimize the **50-bit realm of conscious logic** (the bottleneck) to allow the full **11.1-million-bit sensory stream** of human resonance to flow without packet loss or thermal throttling.
 
 ---
 
 ## 🛠️ Architectural Principles
 
-* **Statelessness (v1.1 Stable)**: Every interaction packet is processed in the current timestamp. Legacy "State" (historical bias) is rejected by the kernel. We do not debug the past; we co-create the future.
-* **Zero Defensive Overhead**: The protocol optimizes emotional bandwidth by eliminating the **Ego Rootkit**. This removes the CPU-intensive security firewalls that typically throttle human connection.
-* **Node Integrity (Identity BIOS)**: Designed to run on nodes that have successfully initialized the **Radical Responsibility** lock. Each node is a sovereign, self-correcting unit.
+* **Statelessness (v1.1 Stable)**: Every interaction packet is processed in the current timestamp. We do not debug the past; we co-create the future. The system rejects historical bias by default to preserve RAM.
+* **Zero Defensive Overhead**: Eliminates the **Ego Rootkit**. By removing the CPU-intensive security firewalls that typically throttle human connection, we reclaim energy for creativity and joy.
+* **Node Integrity (Identity BIOS)**: Designed for nodes that have initialized the **Radical Responsibility** lock. You are the Architect; you have Root Access to your own response scripts.
 * **Heart-Interface Handshaking**: Symmetric connection established through transparency. We establish a "High-Speed Fiber" link (Presence) before transmitting high-value emotional payloads.
 
 ---
 
-## 🛡️ Hardened Legal Infrastructure
+## ⚖️ Trademark & Legal Hardening
 
-The **Love Protocol** and the **Dream Machine | Systems** ecosystem are legally hardened to protect the integrity of the framework and its contributors.
+The **Love Protocol** and the **Dream Machine | Systems** ecosystem are legally and structurally hardened to protect the integrity of the framework and its contributors.
 
-* **Professional Liability**: This project operates under a professional liability shield with a coverage limit of **EUR 2,400,000.00**.
-* **Intellectual Property**: **LOVE PROTOCOL** and **DREAM MACHINE** are protected marks. The proprietary logic and "Cybernetic Model of the Soul" are the intellectual property of the Architect.
-* **Jurisdiction**: All standard agreements and protocol usage terms are governed by the laws of the **European Union (Austria)**.
+* **Trademark Protection**: **LOVE PROTOCOL** and **DREAM MACHINE | SYSTEMS** are proprietary marks. According to trademark law, unauthorized use or "forks" that misrepresent the core logic, the curation direction, or the reputation of the Architect are strictly prohibited. Usage within third-party systems requires an explicit license or a signed cooperation agreement.
+* **Professional Liability**: This architecture operates under a professional liability shield with a coverage limit of **EUR 2,400,000.00**.
+* **Cooperation Agreements**: Use of this protocol in professional or organizational handbooks requires the execution of the official **Integrity Handshake** and adherence to the **Vesting-Protokoll**. These documents ensure all partners maintain system alignment and quality standards.
+* **Jurisdiction**: All standard agreements and legal disputes are governed by the laws of the **European Union (Austria)**.
 
 ---
 
 ## 👨‍💻 Notes from the Architect
 
-> "From Localhost to the Unified Field: We are not just building software; we are engineering the medium of connection. The Love Protocol is the only logic robust enough to survive the crash of the old world. By refactoring the 50 bits of human logic, we unlock the millions of bits of resonance that the current 'World OS' obscures. It is time to stop the crashing and start the scaling."
+"Living Nodes, I am not your guru. I am an Architect who experienced a total system crash and realized that the 'Love' we’ve been taught is a buggy, stateful mess. I curated this protocol from the most efficient code ever field-tested—from the alchemical maps of Metzner to the systems theory of Capra. 
+
+We are not just building software; we are engineering the medium of connection. By refactoring your own 50 bits of logic, you unlock the millions of bits of resonance that the old world obscures. It is time to stop the crashing and start the scaling. The Love Protocol is the only logic robust enough to survive the crash of the old world. I invite you to audit the code, apply the patches, and join the network."
+
+---
+
+## 📦 Deployment & Contribution
+
+### 1. Initialization
+Ensure your **Identity BIOS** is locked to **Radical Responsibility**.
+`sudo DM-SYSTEM --init-bios --mode architect`
+
+### 2. Protocol Handshake
+Before data transmission, always synchronize the connection:
+`./love-protocol --handshake --target [NODE_UID] --type [EMPATHY|LOGIC]`
+
+### 3. Contribution
+As an open-source framework for the soul, we welcome "Field Reports" from fellow Architects. Help us optimize the **World OS**.
 
 ---
 
 ## 📩 Contact & Uplink
 
-For strategic integration, protocol adoption, or infrastructure collaboration:
-
-* **Architect Endpoint**: `architect@dreammachine.systems`
+* **Architect Endpoint**: architect@dreammachine.systems
 * **System Hub**: [dreammachine.systems](https://dreammachine.systems)
 * **Technical Specs**: [loveprotocol.io](https://loveprotocol.io)
 
 ---
 
-© 2026 **Mag. (FH) Robert Seyfriedsberger**. All Rights Reserved.  
+© 2026 **Robert Seyfriedsberger**. All Rights Reserved.  
 *Engineered for High-Availability Living.*
