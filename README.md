@@ -6,14 +6,14 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/build-UNIFIED__FIELD__2026-success?style=flat-square&color=4A90E2" alt="Build Target">
-  <img src="https://img.shields.io/badge/version-v1.1.0__STABLE-gold?style=flat-square&color=FFD700" alt="Version">
+  <img src="https://img.shields.io/badge/version-v1.0.0__STABLE-gold?style=flat-square&color=FFD700" alt="Version">
   <img src="https://img.shields.io/badge/latency-ZERO__MS-important?style=flat-square&color=FF2A6D" alt="Latency">
   <img src="https://img.shields.io/badge/license-PROPRIETARY-lightgrey?style=flat-square" alt="License">
 </p>
 
 ---
 
-**Status:** `v1.1.0-STABLE (Hardened)`  
+**Status:** `v1.0.0-STABLE (Initial Release)`  
 **Parent Infrastructure:** [Dream Machine | Systems](https://www.dreammachine.systems)  
 **Primary Documentation:** [loveprotocol.io](https://loveprotocol.io)
 
@@ -33,7 +33,7 @@ The objective is to optimize the **50-bit realm of conscious logic** (the bottle
 
 ## 🛠️ Architectural Principles
 
-* **Statelessness (v1.1 Stable)**: Every interaction packet is processed in the current timestamp. We do not debug the past; we co-create the future. The system rejects historical bias by default to preserve RAM.
+* **Statelessness (v1.0 Stable)**: Every interaction packet is processed in the current timestamp. We do not debug the past; we co-create the future. The system rejects historical bias by default to preserve RAM.
 * **Zero Defensive Overhead**: Eliminates the **Ego Rootkit**. By removing the CPU-intensive security firewalls that typically throttle human connection, we reclaim energy for creativity and joy.
 * **Node Integrity (Identity BIOS)**: Designed for nodes that have initialized the **Radical Responsibility** lock. You are the Architect; you have Root Access to your own response scripts.
 * **Heart-Interface Handshaking**: Symmetric connection established through transparency. We establish a "High-Speed Fiber" link (Presence) before transmitting high-value emotional payloads.
