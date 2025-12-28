@@ -34,6 +34,7 @@ The objective is to optimize the **50-bit realm of conscious logic** (the bottle
 ## 🛠️ Architectural Principles
 
 * **Statelessness (v1.0 Stable)**: Every interaction packet is processed in the current timestamp. We do not debug the past; we co-create the future. The system rejects historical bias by default to preserve RAM.
+* **Port Security (ACL)**: **Signal $\neq$ Access.** We radiate the protocol unconditionally (Open Signal), but we restrict ingress traffic based on trust (Access Control List). Toxic nodes are sandboxed (Read-Only), never given Root Access.
 * **Zero Defensive Overhead**: Eliminates the **Ego Rootkit**. By removing the CPU-intensive security firewalls that typically throttle human connection, we reclaim energy for creativity and joy.
 * **Node Integrity (Identity BIOS)**: Designed for nodes that have initialized the **Radical Responsibility** lock. You are the Architect; you have Root Access to your own response scripts.
 * **Heart-Interface Handshaking**: Symmetric connection established through transparency. We establish a "High-Speed Fiber" link (Presence) before transmitting high-value emotional payloads.
