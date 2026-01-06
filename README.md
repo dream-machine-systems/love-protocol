@@ -1,14 +1,14 @@
 # 🔗 Love Protocol | Standardizing Human Connection
 
 <p align="center">
-  <img src="[https://www.loveprotocol.io/loveprotocol-logo.png](https://www.loveprotocol.io/loveprotocol-logo.png)" width="180" alt="Love Protocol Logo">
+  <img src="https://www.loveprotocol.io/loveprotocol-logo.png" width="180" alt="Love Protocol Logo">
 </p>
 
 <p align="center">
-  <img src="[https://img.shields.io/badge/build-UNIFIED__FIELD__2026-success?style=flat-square&color=4A90E2](https://img.shields.io/badge/build-UNIFIED__FIELD__2026-success?style=flat-square&color=4A90E2)" alt="Build Target">
-  <img src="[https://img.shields.io/badge/version-v1.0.0__STABLE-gold?style=flat-square&color=FFD700](https://img.shields.io/badge/version-v1.0.0__STABLE-gold?style=flat-square&color=FFD700)" alt="Version">
-  <img src="[https://img.shields.io/badge/latency-ZERO__MS-important?style=flat-square&color=FF2A6D](https://img.shields.io/badge/latency-ZERO__MS-important?style=flat-square&color=FF2A6D)" alt="Latency">
-  <img src="[https://img.shields.io/badge/license-PROPRIETARY-lightgrey?style=flat-square](https://img.shields.io/badge/license-PROPRIETARY-lightgrey?style=flat-square)" alt="License">
+  <img src="https://img.shields.io/badge/build-UNIFIED__FIELD__2026-success?style=flat-square&color=4A90E2" alt="Build Target">
+  <img src="https://img.shields.io/badge/version-v1.0.0__STABLE-gold?style=flat-square&color=FFD700" alt="Version">
+  <img src="https://img.shields.io/badge/latency-ZERO__MS-important?style=flat-square&color=FF2A6D" alt="Latency">
+  <img src="https://img.shields.io/badge/license-PROPRIETARY-lightgrey?style=flat-square" alt="License">
 </p>
 
 ---
