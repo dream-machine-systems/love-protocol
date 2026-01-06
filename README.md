@@ -86,6 +86,7 @@ As an open-source framework for the soul, we welcome "Field Reports" from fellow
 
 ## 📩 Contact & Uplink
 
+* **Architect Endpoint**: `architect@dreammachine.systems`
 * **System Hub**: [dreammachine.systems](https://www.dreammachine.systems)
 * **Technical Specs**: [loveprotocol.io](https://loveprotocol.io)
 
