@@ -1,0 +1,36 @@
+# --- Dream Machine | Systems: Noise Reduction Filter ---
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Editor & IDE specifics (VS Code, IntelliJ, Cursor, etc.)
+.vscode/
+.idea/
+*.swp
+*.swo
+.cursor/
+
+# Backups & Temporary files
+*.bak
+*.tmp
+*.log
+*~
+
+# Potential sensitive data (Precautionary)
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# Hidden Folder for private notes (Optional)
+private/
+
+# Keep directories even if empty (Do NOT ignore .gitkeep)
+!.gitkeep

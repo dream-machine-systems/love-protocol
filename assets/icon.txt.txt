@@ -1,0 +1,19 @@
+____        ____
+      /    \      /    \
+     /      \____/      \
+    |                    |
+    |      CENTRAL       |
+    |     PROCESSOR      |
+     \                  /
+      \      v0.1.0    /
+       \              /
+        \            /
+         \          /
+          \        /
+           \      /
+            \    /
+             \  /
+              \/
+
+[ SYSTEM STATUS: OPERATIONAL ]
+[  CORE ENGINE: LOVE PROTOCOL ]
