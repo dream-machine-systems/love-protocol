@@ -22,8 +22,11 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/).
 - **Logic Specification (BIOS):** Defined the "Agency-Flag" and the mathematical Processing Gap formula ($G = t_{response} - t_{stimulus}$).
 - **Communication Layer:** Initialized `core/communication-filter.md`.
 - **Transmission Logic:** Defined the 50-Bit Bottleneck and the mandatory Handshake Requirement for data exchange.
+- **External Patch:** Integrated Gottman Method Logic (`patches/gottman-patch.md`).
+- **Error Handling:** Refactored the "Four Horsemen" into actionable System Bugs (`LOGIC_ATTACK`, `SYSTEM_HIERARCHY_ERROR`, etc.).
 - **System Constraints:** Established the "Zero-Blame Policy" and "Root Access" requirements for Living Nodes.
 
 ### Changed
 - **Versioning:** Refactored from `v1.0.0-STABLE` to `v0.1.0-ALPHA` to reflect the active development and "Ongoing Refactoring" phase.
 - **Signal Routing:** Updated system endpoint to `signal@loveprotocol.io` for improved operational modularity.
+- **Asset Refactoring:** Corrected naming convention for `assets/icon.txt` (removed redundant file extension).
