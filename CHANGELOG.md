@@ -25,6 +25,9 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/).
 - **External Patch:** Integrated Gottman Method Logic (`patches/gottman-patch.md`).
 - **Error Handling:** Refactored the "Four Horsemen" into actionable System Bugs (`LOGIC_ATTACK`, `SYSTEM_HIERARCHY_ERROR`, etc.).
 - **System Constraints:** Established the "Zero-Blame Policy" and "Root Access" requirements for Living Nodes.
+- **Security Patch:** Integrated Terry Real's Boundary Logic (`patches/terry-real-patch.md`).
+- **Port Security:** Defined the "Relational Firewall" to filter incoming projections.
+
 
 ### Changed
 - **Versioning:** Refactored from `v1.0.0-STABLE` to `v0.1.0-ALPHA` to reflect the active development and "Ongoing Refactoring" phase.
