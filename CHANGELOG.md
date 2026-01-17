@@ -19,7 +19,9 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/).
 
 ### Added (Feature)
 - **Core Module:** Initialized `core/identity-bios.md`.
-- **Logic Specification:** Defined the "Agency-Flag" and the mathematical Processing Gap formula ($G = t_{response} - t_{stimulus}$).
+- **Logic Specification (BIOS):** Defined the "Agency-Flag" and the mathematical Processing Gap formula ($G = t_{response} - t_{stimulus}$).
+- **Communication Layer:** Initialized `core/communication-filter.md`.
+- **Transmission Logic:** Defined the 50-Bit Bottleneck and the mandatory Handshake Requirement for data exchange.
 - **System Constraints:** Established the "Zero-Blame Policy" and "Root Access" requirements for Living Nodes.
 
 ### Changed
