@@ -17,6 +17,11 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/).
 - **Noise Reduction:** Implemented a specialized `.gitignore` to maintain repository signal quality.
 - **Legal Hardening:** Integrated Apache 2.0 License and trademark protection clauses.
 
+### Added (Feature)
+- **Core Module:** Initialized `core/identity-bios.md`.
+- **Logic Specification:** Defined the "Agency-Flag" and the mathematical Processing Gap formula ($G = t_{response} - t_{stimulus}$).
+- **System Constraints:** Established the "Zero-Blame Policy" and "Root Access" requirements for Living Nodes.
+
 ### Changed
 - **Versioning:** Refactored from `v1.0.0-STABLE` to `v0.1.0-ALPHA` to reflect the active development and "Ongoing Refactoring" phase.
 - **Signal Routing:** Updated system endpoint to `signal@loveprotocol.io` for improved operational modularity.
