@@ -75,7 +75,7 @@ sudo DM-SYSTEM --init-bios --mode architect
 Before data transmission, always synchronize the connection:
 
 ```text
-./love-protocol --handshake --target [NODE_UID] --type [EMPATHY|LOGIC]
+./love-protocol --handshake --target [NODE_UID] --type [COMPASSION|LOGIC]
 ```
 
 ---
