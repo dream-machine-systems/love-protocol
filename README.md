@@ -21,11 +21,11 @@
 
 ## 🛰️ Project Overview
 
-The **Love Protocol** is a high-performance application layer designed to refactor human communication from a "Stateful" mess into a **Stateless Data Exchange**. 
+The **Love Protocol** is a high-performance application layer designed to refactor human communication from a "Stateful" mess into a **Stateless Data Exchange**, while safely preserving the underlying **Stateful Database** of human connection. 
 
 In legacy "World OS" interactions, social latency is caused by the **50-Bit Bottleneck**. The conscious mind tries to compress complex emotional histories (11 million bits) into low-bandwidth language, resulting in packet loss, "Emotional Lag," and defensive firewalls.
 
-**The Solution:** By removing this "Legacy Debt," the protocol enables **Permeability**. It opens the firewall between nodes, allowing the full sensory stream of human resonance to flow without crashing the logic processor.
+**The Solution:** By separating our historical database from our real-time API, the protocol enables **Permeability**. It opens the firewall between nodes, allowing the full sensory stream of human resonance to flow without crashing the logic processor.
 
 In the context of the global **Polycrisis**, this protocol serves as a stabilizing utility to decrease system entropy:
 
@@ -35,7 +35,7 @@ $$\Delta S_{system} < 0$$
 
 ## 🛠️ Architectural Principles
 
-* **Statelessness (Active Refactoring)**: Every interaction packet is processed in the current timestamp. We do not debug the past; we co-create the future. The system rejects historical bias by default to preserve RAM.
+* **Stateless API & Stateful DB (Anti-Amnesia Exploit)**: Human attachment is a permanent, historical database. We do not use "statelessness" to force-delete the pain we cause others (The Amnesia Exploit). Instead, we keep our real-time *communication* (API) stateless—sending clean packets without hidden payloads of past resentment. If the past needs debugging, we run an explicit, dedicated query together. 
 * **Port Security (ACL)**: **Signal != Access.** We radiate the protocol unconditionally (Open Signal), but we restrict ingress traffic based on trust (Access Control List). Toxic nodes are sandboxed (Read-Only), never given Root Access.
 * **Permeability Logic**: Instead of building a thicker wall (Ego), we install a "Screen Door." This allows the **11-million-bit signal** of connection to pass through while keeping the **50-bit logic** organized.
 * **Node Integrity (Identity BIOS)**: Designed for nodes that have initialized the **Radical Responsibility** lock. You are the Architect; you have Root Access to your own response scripts.
@@ -58,7 +58,7 @@ This project is released under the **Apache License 2.0**. We believe in open lo
 
 > "Living Nodes, I am not your guru. I am an Architect who experienced a total system crash and realized that the 'Love' we’ve been taught is a buggy, stateful mess. 
 >
-> We are not just building software; we are engineering the medium of connection. By refactoring your own 50 bits of logic, you unlock the millions of bits of resonance that the old world obscures. The Love Protocol is our attempt to build a logic robust enough to withstand the entropy of the old world. Audit the code, apply the patches, and join the network."
+> We are not just building software; we are engineering the medium of connection. I originally wanted a protocol that could wipe the cache so I wouldn't have to face my own historical database. That was an error. True connection requires the friction of history. By separating the historical database from the real-time API, you unlock the millions of bits of resonance that the old world obscures. Audit the code, apply the patches, and join the network."
 
 ---
 
@@ -72,10 +72,17 @@ sudo DM-SYSTEM --init-bios --mode architect
 ```
 
 ### 2. Protocol Handshake
-Before data transmission, always synchronize the connection:
+Before daily data transmission, always synchronize the connection:
 
 ```text
 ./love-protocol --handshake --target [NODE_UID] --type [COMPASSION|LOGIC]
+```
+
+### 3. Database Sync (Resolving History)
+When historical logs are creating active friction, do not weaponize them in a standard handshake. Open a secure terminal and query the Stateful Database explicitly:
+
+```text
+./love-protocol --query-db --target [NODE_UID] --resolve-history
 ```
 
 ---
